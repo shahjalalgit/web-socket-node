@@ -1,4 +1,9 @@
 {
+  "compilerOptions": {
+    "jsx": "react",
+    "esModuleInterop": true,
+    // other options...
+  },
   "files": [],
   "references": [
     { "path": "./tsconfig.app.json" },
